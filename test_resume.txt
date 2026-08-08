@@ -1,0 +1,27 @@
+John Doe
+Software Engineer
+Email: john.doe@email.com | Phone: 123-456-7890 | LinkedIn: linkedin.com/in/johndoe
+
+Summary:
+Detail-oriented and analytical Software Engineer with 4+ years of professional experience designing, building, and maintaining scalable web applications. Proven track record of improving application performance and leading collaborative teams.
+
+Skills:
+- Languages: Python, JavaScript, SQL, HTML, CSS
+- Frameworks: Streamlit, FastAPI, Flask, React, Node.js
+- Cloud & DevOps: AWS (S3, EC2), Docker, Git, CI/CD pipelines
+- Databases: PostgreSQL, MongoDB, Redis
+
+Experience:
+Senior Software Engineer | Tech Solutions Inc. (2023 - Present)
+- Architected and deployed a real-time data processing pipeline using FastAPI and AWS, reducing data latency by 35%.
+- Led a team of 4 engineers to migrate a legacy monolithic service to a microservices architecture, improving system uptime to 99.9%.
+- Mentored junior developers and initiated weekly code review workshops.
+
+Software Engineer | Innovate Labs (2021 - 2023)
+- Built and optimized frontend features using React, boosting user engagement by 15%.
+- Designed database schemas in PostgreSQL, writing complex queries that improved reporting page load times by 40%.
+- Created automated integration test suites, reducing production bugs by 20%.
+
+Education:
+Bachelor of Science in Computer Science | Global Tech University (2017 - 2021)
+GPA: 3.8/4.0
