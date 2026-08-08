@@ -14,3 +14,7 @@ wheels/
 
 # Editor settings
 .vscode/
+
+# Local dependency resolution files (use requirements.txt for deploy)
+pyproject.toml
+uv.lock
